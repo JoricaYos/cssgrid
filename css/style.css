@@ -1,3 +1,4 @@
+
 .header{
     text-align: center;
 }
@@ -27,4 +28,10 @@ figure{
 }
 body{
     background-color: floralwhite;
+}
+.program{
+    background-color: lightgrey;
+    padding: 2rem;
+    font-size: 1.5;
+    border-radius: 10px;
 }
